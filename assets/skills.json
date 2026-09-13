@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skill radar axes for Arun Kumar Patil. Values are 0-100.",
+  "axes": [
+    { "label": "Autonomous Agents", "value": 90 },
+    { "label": "TypeScript",        "value": 86 },
+    { "label": "Python",            "value": 85 },
+    { "label": "Next.js / React",   "value": 84 },
+    { "label": "Swift / macOS",     "value": 78 },
+    { "label": "Node.js / APIs",    "value": 80 },
+    { "label": "Databases / SQL",   "value": 75 }
+  ]
+}

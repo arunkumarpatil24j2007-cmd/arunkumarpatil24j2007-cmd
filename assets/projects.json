@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "murmur",
+      "description": "Minimal voice-to-text macOS utility with Mini Jarvis autonomous agent integration and keyboard shortcuts."
+    },
+    {
+      "repo": "murmur-website",
+      "description": "Weightless, intelligent voice dictation landing and distribution system for macOS Apple Silicon."
+    },
+    {
+      "repo": "bidri",
+      "description": "Authentic 14th-century zinc & silver inlay metalware luxury heritage commerce platform."
+    },
+    {
+      "repo": "Arunkumar-sportfolio",
+      "description": "Interactive developer portfolio showcasing autonomous AI agents, web architectures, and fullstack systems."
+    }
+  ]
+}
