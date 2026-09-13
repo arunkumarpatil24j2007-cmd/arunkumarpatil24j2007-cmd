@@ -1,6 +1,6 @@
 {
   "title": "Skill Radar",
-  "_comment": "Self-rated skill radar axes for Arun Kumar Patil. Values are 0-100.",
+  "_comment": "Self-rated skill radar axes for Arunkumar Patil. Values are 0-100.",
   "axes": [
     { "label": "Autonomous Agents", "value": 90 },
     { "label": "TypeScript",        "value": 86 },

@@ -4,13 +4,13 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/arun_studio_cutout_feathered.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color --reveal -->
-<img src="assets/portrait.svg" width="300" alt="Arun Kumar Patil, rendered as a dot matrix with rollout reveal">
+<img src="assets/portrait.svg" width="300" alt="Arunkumar Patil, rendered as a dot matrix with rollout reveal">
 
 <br>
 
 <!-- NAME / TAGLINE - animated typing in hacker terminal green -->
 <a href="https://github.com/arunkumarpatil24j2007-cmd">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Arun+Kumar+Patil;Machine+Learning+%26+Systems;Autonomous+AI+Agents;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Arunkumar+Patil;Machine+Learning+%26+Systems;Autonomous+AI+Agents;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
@@ -33,7 +33,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Arun Kumar Patil**. I build systems that sit somewhere between autonomous AI agents, machine learning, and high-performance applications, and I solve hard problems for fun when neither of those is cooperating.
+Hi, I'm **Arunkumar Patil**. I build systems that sit somewhere between autonomous AI agents, machine learning, and high-performance applications, and I solve hard problems for fun when neither of those is cooperating.
 
 - Currently building **[Murmur](https://github.com/arunkumarpatil24j2007-cmd/murmur)** (voice-to-text macOS utility with Mini Jarvis autonomous agent integration) and **[Bidri](https://github.com/arunkumarpatil24j2007-cmd/bidri)**
 - Exploring **Autonomous Multi-Agent Runtimes + Apple Silicon Acceleration**
